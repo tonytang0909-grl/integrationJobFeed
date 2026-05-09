@@ -1,0 +1,17 @@
+{
+  "name": "integration-job-feed",
+  "version": "2.0.0",
+  "description": "Australian integration job feed — Playwright scraper with RSS output via GitHub Pages",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "scrape": "node src/index.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.6",
+    "playwright": "^1.44.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

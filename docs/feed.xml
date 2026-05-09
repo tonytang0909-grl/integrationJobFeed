@@ -1,0 +1,2218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Integration Jobs — Australia</title>
+    <link>https://example.github.io/job-feed</link>
+    <atom:link href="https://example.github.io/job-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Integration, API, middleware and industry-specific tech jobs across Australia. Updated every 6 hours.</description>
+    <language>en-au</language>
+    <lastBuildDate>Sat, 09 May 2026 02:04:33 GMT</lastBuildDate>
+    <ttl>360</ttl>
+    <image>
+      <url>https://github.githubassets.com/favicons/favicon.png</url>
+      <title>Integration Jobs Australia</title>
+      <link>https://example.github.io/job-feed</link>
+    </image>
+
+  <item>
+    <title><![CDATA[ServiceNow Developer — Capgemini]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=2d814beca9b14ad2&amp;bb=uSK-wxFv7pltVj9qMQvvVmGWu3yZ5VlBNcRh66acTMwbLw3UpuiCFa03o9yvlXdtWRbj9zExtJCSq6bxxHuu6MFDgKIrBJwH1fZS4iqL47qfPMOQuiO_0hjl0cp7-SZGxkbjKWLc-TAEoqhihT5Y7rWH8xi6stgv&amp;xkcb=SoBV67M3jFGQxmynCh0LbzkdCdPP&amp;fccid=105ecfd0283f415f&amp;vjs=3</link>
+    <guid isPermaLink="false">cf5e82fada5f35d973b6e448c3dc5545</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Capgemini]]></author>
+    <location><![CDATA[Greater Adelaide SA]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior QA — Trideca]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=849eb0095fb66dcf&amp;bb=uSK-wxFv7pltVj9qMQvvVi3TLjHRT-UHP_MbwtWzq-XxXqAyzKpCY42EC-Hq4Yvk5OqLszPutl8XYEip2VCBYhhCWACL7A2lRWYiBkI0RLh7QG-zwUINY5B9jW8WlMJ82d880wyIj_Ej0jO0UM2O-qd_sMQ-llvv&amp;xkcb=SoDh67M3jFGQxmynCh0KbzkdCdPP&amp;fccid=a480db32c2e9c674&amp;vjs=3</link>
+    <guid isPermaLink="false">542485dd86c4ceb39ff5c39e9fc1d92f</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Trideca]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Software Engineer — Alinta Energy]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=b795117be693b79a&amp;bb=uSK-wxFv7pltVj9qMQvvVo8xon8vwt5H211wxnAQbKWKmpwCJQtLH7FzKyIbA6h3_dPb4VD2x8jq1BbRlPsJnhCePV4KpjvKUikBvvzFxPYjQJ0_Ue_m4ZfeaLIsmq0FKVR-X2rBh602fLA0vHwXqsDjzp70UIY2&amp;xkcb=SoB867M3jFGQxmynCh0JbzkdCdPP&amp;fccid=42df86f3579ffaa1&amp;vjs=3</link>
+    <guid isPermaLink="false">b8cefb017db5e7649e2833861de064cc</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Alinta Energy]]></author>
+    <location><![CDATA[Greater Adelaide SA]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software QA, Automation Engineer — Alinta Energy]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=69deea856a4666ba&amp;bb=uSK-wxFv7pltVj9qMQvvVhFRSfM0LMepDFy5BuNqOY_rPcq07AeW3HiXrQbCMQsZ97X9EiDjiBrugJ3W7QSWK283uRvevdTPVj6EAoG9S7NTaVlinbzmIZkwLbIUqutiOczbQX_2PsIHJvdgQ-x48fgLE2LaRH-b&amp;xkcb=SoDI67M3jFGQxmynCh0IbzkdCdPP&amp;fccid=42df86f3579ffaa1&amp;vjs=3</link>
+    <guid isPermaLink="false">d4931f94074a985fbfd7afc025919d1c</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Alinta Energy]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Test Automation Lead — Deloitte]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=5bebea1b7bcab627&amp;bb=uSK-wxFv7pltVj9qMQvvVqo64baMcUDMi0GfPoTqEAEZR1ehypKLJvSve2WA2jMKtBpAa3e_B_f8_DZl7VQ5fuM3tT6PoZr-4vni5d3I5gHGCNC1Tzuc4CeQk147ecCcEt_YeiC1DB4VFbHEYxfalYF13B4PHoFn&amp;xkcb=SoBG67M3jFGQxmynCh0PbzkdCdPP&amp;fccid=9e215d88a6b33622&amp;vjs=3</link>
+    <guid isPermaLink="false">2474f1ae0c91066b098457b7becf542b</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Deloitte]]></author>
+    <location><![CDATA[Melbourne VIC 3000]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Analyst Developer — St Vincent's Health Australia]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=5bb96ee4be0838a8&amp;bb=uSK-wxFv7pltVj9qMQvvVgtRRRocrJP9fB-dG-YMZJZRryDfFVox7wwXoMBBwULuEsXMC0wr-c-eZ4sXSKnJPZa1lyBVOms9PVjlpYGKbOIfPFwui3jAgpTO4LcxVhNejiQq9ReuMrJE5h47kOWYyPxzD8dkpCeg&amp;xkcb=SoDy67M3jFGQxmynCh0ObzkdCdPP&amp;fccid=7b235af9897ae0f9&amp;vjs=3</link>
+    <guid isPermaLink="false">8711f5f6f01f5ca3290445109f6797ec</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[St Vincent's Health Australia]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Staff Software Engineer – Full Stack (.NET) — Commonwealth Bank]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=bf44ab41c30ba55e&amp;bb=uSK-wxFv7pltVj9qMQvvVlwOOUK5wJGFZr25F3Lv-43EcI_8sFqWTT_ekgyjjLU2_MUvbfZrxH-inQGmdAGsQg4sAP664ZayEQpmsCH_TlwHJ6_fcZ3dYPOVY-aKV4albLD5qmieuxDzljrmcf4EzLh5FF4TPqQT&amp;xkcb=SoBv67M3jFGQxmynCh0NbzkdCdPP&amp;fccid=26f47cce54403a22&amp;vjs=3</link>
+    <guid isPermaLink="false">f5f7265b73aa97ba2209acd55a33c064</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Commonwealth Bank]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Staff Software Engineer – Full Stack (.NET) — Commonwealth Bank]]></title>
+    <link>https://au.indeed.com/viewjob?jk=123456789abcdef0</link>
+    <guid isPermaLink="false">6665f67486996683a2489e8b3ffb18ea</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Commonwealth Bank]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Developer — MYOB]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=a03c9f33991d852f&amp;bb=uSK-wxFv7pltVj9qMQvvVrVUXH0H2vjl9vlSR3LgC7hCV-v0g9dsqtMrbh2Q8MF4WPnx2M9bcl3qfowX0p8Wxfmp6QzXrWFT4LNQ2U-TQ4JRXtpJmUgIrSbAgdjw1QnT_rKcmxtpXjdQoeLZX3kWTyHKmh4pZ2ng&amp;xkcb=SoDb67M3jFGQxmynCh0MbzkdCdPP&amp;fccid=82819e1db6d8d247&amp;vjs=3</link>
+    <guid isPermaLink="false">574c10df6e44db59bd38362a8e876c24</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[MYOB]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Sr. Cloud & Collaboration Engineer (TCF) — Concentrix]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=87aa5026e19e37f7&amp;bb=uSK-wxFv7pltVj9qMQvvVqP4BgOA2dGnhz58Nod9j2pACDwKSm1gpXbQqG4n3lok3tTLSIy0R-ehszxPcje981f_j3QcmhhSk685ZGNYFDrV9ZZEGoE-VXyp4jMlG2SKqQhwmTjeGHnY9ryZw3wlbOcqCUmge-b3&amp;xkcb=SoAy67M3jFGQxmynCh0DbzkdCdPP&amp;fccid=773041d0d31c442a&amp;vjs=3</link>
+    <guid isPermaLink="false">7d8d088c832f3a42aa3073bbdbe4b2a8</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Concentrix]]></author>
+    <location><![CDATA[Melbourne VIC 3000]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[System Integration Engineer - ATM — Saab]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=c349c4b53678403c&amp;bb=uSK-wxFv7pltVj9qMQvvVqQ8XiIYCZ6wzihJaQpwUob73vDM3L3LQaBqi262HM6eb-9lEhpBcKJMY5NRjJVTLHzz4hCuXfMCruIxRCGtWeDww0QgaCGSkM1B-dQS_25ztsEa6yi4b8K90RryJgl4ZgEhR2nEpA-4&amp;xkcb=SoCG67M3jFGQxmynCh0CbzkdCdPP&amp;fccid=fd0b91c6ea94ae02&amp;vjs=3</link>
+    <guid isPermaLink="false">1fb8190798a35b7fad9fec319b866c9d</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Saab]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Developer — Axsys]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=d2b5803e8a531ee5&amp;bb=uSK-wxFv7pltVj9qMQvvVs4oMLrVgkS3G0gemsUIyx6WsYpKs1LEpcJr1MnhnPkW7w-ZLUYWdZ7J-LuXJY6OVvlnY0bdV_4p2kIEi_xIi3DFy3aJOu70McRKKfD3mLohEfii485133ADHY52AIFI4Qjk4qBbtHOW&amp;xkcb=SoAb67M3jFGQxmynCh0BbzkdCdPP&amp;fccid=e8a7d527834bd701&amp;vjs=3</link>
+    <guid isPermaLink="false">1890137b70082e0350812a2eb3e5ac13</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Axsys]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Business Analyst — People's Choice Credit Union]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=8f6f76327758d5e2&amp;bb=uSK-wxFv7pltVj9qMQvvVt6ZDIafjttcklSI5KCPGyN8p4GQVwbtlu7-A51SfUrctFgSmFZvsBIoD_t_Lw15vKUqHeDP2kC6_9ul76jw8LzZ0XjbpKRJDhnXnouJJFYnTI3aswCP_tP51nQ3e48Kku65x5DM5RVk&amp;xkcb=SoCv67M3jFGQxmynCh0AbzkdCdPP&amp;fccid=78938590a1f77485&amp;vjs=3</link>
+    <guid isPermaLink="false">d1ef9241fabf7ef1d7602ebf1fa96c0c</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[People's Choice Credit Union]]></author>
+    <location><![CDATA[South Australia]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Staff Mobile Engineer, Spend Foundation — Airwallex]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=2f541f189207e791&amp;bb=uSK-wxFv7pltVj9qMQvvVmVQiTXoTXvxR3041ZqIWzXC0-_V-k_qAwM1P0Th1N9tY4HN0Isdge_TFRH4g5g_saZJihXbn3tDu7nCaep9Pz8dlsr0stZd6L8Z93v_omThYwu4z_sr_WG7PXq0aWlDYYNKOzEnTxLg&amp;xkcb=SoAh67M3jFGQxmynCh0HbzkdCdPP&amp;fccid=1e0c05935a4db3a3&amp;vjs=3</link>
+    <guid isPermaLink="false">ee331d9fb0ee816c8bea77056c342e91</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Airwallex]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer - Atlassian Corporation — Atlassian Corporation]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=9c4e2b4b4d6f343e&amp;bb=uSK-wxFv7pltVj9qMQvvVt_VsEt03NDpb-0i8W7Jv1ifnFwbjq5mKdlTqXt3IxEuERHpSCwoyhlpmdJOB1DgK7dFmInb4Sp5SfFe57uchoViLExwwg38WpF3XnWtnJHqJEzfczXsz6t35O3IMYIttI3MNWTm5a2h&amp;xkcb=SoCV67M3jFGQxmynCh0GbzkdCdPP&amp;fccid=e6d4ba9e2cfe7902&amp;cmp=Atlassian&amp;ti=Software+Engineer&amp;vjs=3</link>
+    <guid isPermaLink="false">89506562af948b38567cf8b744d06ef9</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[Atlassian Corporation]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Integration Analyst Developer — St Vincent's Health Australia]]></title>
+    <link>https://au.indeed.com/rc/clk?jk=a954300458ebd0a0&amp;bb=uSK-wxFv7pltVj9qMQvvVr4kaQE1hF4vtuYz0mNyojgmZ-rd1dfZIs5wnfvdqnL8xMXUiQOtIE117iOo2tNmr9et900xIsd7dU5M0zuw3FE3lMEvmFs-ivgvXEqmmgaHje5ZMFTvl-cfVkXOODZKqUElW7t0UcWY&amp;xkcb=SoAI67M3jFGQxmynCh0FbzkdCdPP&amp;fccid=7b235af9897ae0f9&amp;vjs=3</link>
+    <guid isPermaLink="false">c388fcaa9956cd29972aa8cc274f2018</guid>
+    <pubDate>Sat, 09 May 2026 01:57:12 GMT</pubDate>
+    <author><![CDATA[St Vincent's Health Australia]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[integration developer]]></category>
+    <source><![CDATA[Indeed]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Finance Transformation Manager — Accenture]]></title>
+    <link>https://au.seek.com/job/92007678?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=64850eb0c537f1b26c4444d9574870800123b54a</link>
+    <guid isPermaLink="false">6a5b23627612691a116bcc0997ff1633</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Accenture]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Finance Transformation Manager — Accenture]]></title>
+    <link>https://au.seek.com/job/92007675?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=b4fe40825003c22bc062fe2779e68c374ea6378a</link>
+    <guid isPermaLink="false">831c78640e5af32dadb446988a6479f9</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Accenture]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Finance Transformation Senior Manager — Accenture]]></title>
+    <link>https://au.seek.com/job/92007634?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=4352bd20599f018f8702cb79efc70d2c26bc4e9e</link>
+    <guid isPermaLink="false">75ee270646285071c7dbb96ebdf69228</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Accenture]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Accounts Manager — Melville Glades Golf Club]]></title>
+    <link>https://au.seek.com/job/92007455?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=01f83b27ae8d33332bcb6116f3296f50fb56c473</link>
+    <guid isPermaLink="false">95531473ca6780423e409af956d2ea43</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Melville Glades Golf Club]]></author>
+    <location><![CDATA[Leeming]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Customer Service Specialist - Banking — BNK Banking Corporation Limited]]></title>
+    <link>https://au.seek.com/job/92006338?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=9ad8dfef73f959c484476a18589277ce6787ff37</link>
+    <guid isPermaLink="false">a8b2282b8af17a0f707797e7fe45da3d</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[BNK Banking Corporation Limited]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Specialist, Wallet Operations — Recruitics, LLC]]></title>
+    <link>https://au.seek.com/job/92005470?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=482b3b5b6b7e220c6c4ff14f78862dee1e4680d6</link>
+    <guid isPermaLink="false">27652432e1f4bdf5a638ba5fa5caa293</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Recruitics, LLC]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Head of Financial Reporting — ELMO Software Limited]]></title>
+    <link>https://au.seek.com/job/92002394?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=a0f28d555549edf8b96b1d26b9f72339ffa3cf47</link>
+    <guid isPermaLink="false">9ff6d8611103de4fa2990a5cfbf615d8</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[ELMO Software Limited]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Finance Systems Data Consultant - JDE & Azure — Marshall Recruitment]]></title>
+    <link>https://au.seek.com/job/91998818?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=e0fe1ec715724d6693840006e7a230435768652c</link>
+    <guid isPermaLink="false">b3e9938571785faf154c6ea238c6eec5</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Marshall Recruitment]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Technical Facility Supervisor — Honeywell Ltd]]></title>
+    <link>https://au.seek.com/job/91998775?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=51db2fe66f4b5427eaf380c2cbf69d7d146697ba</link>
+    <guid isPermaLink="false">9d78c3c89e9377f8016d4c04e5dbb769</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Honeywell Ltd]]></author>
+    <location><![CDATA[South Bank]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Assistant Manager (Cross-border & E-banking retail) - Bank of China, Sydney — Bank of China]]></title>
+    <link>https://au.seek.com/job/91996671?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=6933b8b40be43fd56be8e53043a969fa0ca996c3</link>
+    <guid isPermaLink="false">747f0781eea41a100a47f18733bc8f08</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Bank of China]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Mid & Senior Full Stack Engineers - Java/React — Launch Recruitment Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91996297?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=c4185d2643c75ed1f9d3df57d727047613df3744</link>
+    <guid isPermaLink="false">b62e4b0eca1506f252673263025ed247</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Launch Recruitment Pty Ltd]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Junior Java Implementation Engineer — Launch Recruitment Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91995635?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=c2467bfa11f5a998bacd0adbb0edcb9588912385</link>
+    <guid isPermaLink="false">1aa8718873c86d3d0415b2eb62634e66</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Launch Recruitment Pty Ltd]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Developer — Charles Darwin University]]></title>
+    <link>https://au.seek.com/job/91995543?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=4298cc3993ab10f2982487a150c25bde769d29f4</link>
+    <guid isPermaLink="false">8f2235e40e9b9d321e05cd5424d270fc</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Charles Darwin University]]></author>
+    <location><![CDATA[Darwin NT]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Personal Banker — Beyond Bank Australia]]></title>
+    <link>https://au.seek.com/job/91994611?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=76f050d64219f6bec154321d01611eb570f4f2be</link>
+    <guid isPermaLink="false">c943fc43cf7e3d4253ad133241bf947e</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Beyond Bank Australia]]></author>
+    <location><![CDATA[Mudgee]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Assistant Vice President - DI CBAP — Sumitomo Mitsui Banking Corporation]]></title>
+    <link>https://au.seek.com/job/91994248?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=2ae836ce3268464a62f9bb6718cc35109460253a</link>
+    <guid isPermaLink="false">8f6ef0273330d588aa0651f485a2113d</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Sumitomo Mitsui Banking Corporation]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Product Manager — Plenti]]></title>
+    <link>https://au.seek.com/job/91994057?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=6ac4a19520b977399f02ff8c303f5aa8294afbb1</link>
+    <guid isPermaLink="false">bda685f01fe93546c9addb413f644a32</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Plenti]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[System Integration Engineer - ATM — Saab Australia Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91993426?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=bfd7c09456386347e4bba01efd6484abafd17d5e</link>
+    <guid isPermaLink="false">5b38f9a3cb25d8b1a5238020c7b7026f</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Saab Australia Pty Ltd]]></author>
+    <location><![CDATA[Hawthorn]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Business Analyst- Salesforce — Heritage and People's Choice]]></title>
+    <link>https://au.seek.com/job/91991658?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=2d27203683a524cf0d8735b6bf886a88b8517017</link>
+    <guid isPermaLink="false">23b1f64cd392b9ea5ec9aa2737727926</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Heritage and People's Choice]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Business Analyst- Salesforce — Heritage and People's Choice]]></title>
+    <link>https://au.seek.com/job/91991613?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=a4edf0d8f2fe117c93c46146fc241ee0964a756a</link>
+    <guid isPermaLink="false">175cbee3df1fcb2d713048cb796648ca</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Heritage and People's Choice]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Customer Service Representative — OFX]]></title>
+    <link>https://au.seek.com/job/91991252?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=e8d10829a11c18279d63635f9cdc3c45cf35a034</link>
+    <guid isPermaLink="false">dad89d59f7d6728e581b6252a28708bb</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[OFX]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Digital Insight & Reporting Analyst — Bank Australia]]></title>
+    <link>https://au.seek.com/job/91990890?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=f2bc5242e246087929d61cc8250b79a643ec407f</link>
+    <guid isPermaLink="false">d9121247a8afca6b0e28662dd38c7e0c</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Bank Australia]]></author>
+    <location><![CDATA[Collingwood]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Chief Product & Technology Officer — Lextech Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91989286?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=e4d8ee443689efa1d016053572ee17df80dc56df</link>
+    <guid isPermaLink="false">48d7d8a6843f4c8b5304aa25abd6b26b</guid>
+    <pubDate>Sat, 09 May 2026 01:57:04 GMT</pubDate>
+    <author><![CDATA[Lextech Pty Ltd]]></author>
+    <location><![CDATA[Scoresby]]></location>
+    <category><![CDATA[banking integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Software Engineer — Halcyon Knights Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91988038?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=3da9b6802a56f3fe964dc120abad5fac5b2966ad</link>
+    <guid isPermaLink="false">32e5f69a69cec89ce0084a0b2c33271f</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Halcyon Knights Pty Ltd]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Application Developer — Healthia]]></title>
+    <link>https://au.seek.com/job/91983409?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=a869ae02e765d32ff1012ed17a5600c9b58cb072</link>
+    <guid isPermaLink="false">09f854d52819c36c9d7cd1ad66fcdbf5</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Healthia]]></author>
+    <location><![CDATA[Windsor]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Principal Product Manager - Verification & Activation(Exchange) — Crypto.com]]></title>
+    <link>https://au.seek.com/job/91981011?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=606ce857140aae6c521bdf3272198f8d5e34482c</link>
+    <guid isPermaLink="false">b0a067d3f0bbfa841cb98f9d64981a5e</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Crypto.com]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Technical Lead, Payments — Heritage and People's Choice]]></title>
+    <link>https://au.seek.com/job/91971560?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=1c78aeca8e3b7d358f0fbcd8ee31646ef1b6f1a8</link>
+    <guid isPermaLink="false">7db75fe10538d0a78d5406ee81d6c5fa</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Heritage and People's Choice]]></author>
+    <location><![CDATA[Adelaide SA]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Technical Lead, Payments — Heritage and People's Choice]]></title>
+    <link>https://au.seek.com/job/91971415?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=0cdfec4c03d54891012136d486c3b2c9b9fedde1</link>
+    <guid isPermaLink="false">96d51e083ff7930bd941e45cf8cb5b80</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Heritage and People's Choice]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Product Manager — One Stop Warehouse Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91964455?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=c1024eb7e8097dbf3664fa65d278d1bd9e67f6b7</link>
+    <guid isPermaLink="false">475b39552a5c25c00cb8279e7964213e</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[One Stop Warehouse Pty Ltd]]></author>
+    <location><![CDATA[Macquarie Park]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[SWIFT Systems Engineer — Precision Sourcing]]></title>
+    <link>https://au.seek.com/job/91960453?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=048e83c6493248b14d0a55cd98d83d0f5fe75439</link>
+    <guid isPermaLink="false">fb5d953b5572d6806cebe5b9c069ccbb</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Precision Sourcing]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Backend Software Engineer — DataMesh]]></title>
+    <link>https://au.seek.com/job/91944248?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=1b232dbf0fd8d996f82d21ae84ee22bf77564510</link>
+    <guid isPermaLink="false">e663dd413476b043f58023a49567698c</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[DataMesh]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[QA Manager — DataMesh]]></title>
+    <link>https://au.seek.com/job/91943786?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=4f8d9fd2d0108f6835ceb6472a39d8f9431725d8</link>
+    <guid isPermaLink="false">752437fb4af87b4a2e135fbe615518c7</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[DataMesh]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Business Analyst — TheDriveGroup]]></title>
+    <link>https://au.seek.com/job/91943457?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=57f26f63fa57764375e958237b062aaa41cdc55c</link>
+    <guid isPermaLink="false">152fb19cf76553464dd0b48e9b41d4f4</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[TheDriveGroup]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Product Manager - Payments Security — Project Pathway Recruitment]]></title>
+    <link>https://au.seek.com/job/91941808?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=3a15de654fe403412a21db3895954d0805b5c032</link>
+    <guid isPermaLink="false">7b679e223c0a35dc5f3662ed9b512a37</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Project Pathway Recruitment]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[API Engineer — Talenza]]></title>
+    <link>https://au.seek.com/job/91939413?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=dc270472299a5fbab9fc0673352171587fcfc4a4</link>
+    <guid isPermaLink="false">887f016ee85b2a40bbdd5ae0a2f6232e</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Talenza]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Digital Identity Platform Engineer — Thales Australia & New Zealand]]></title>
+    <link>https://au.seek.com/job/91935937?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=f2f9a10d69fcf4ce923537bdf78999b4939d70e8</link>
+    <guid isPermaLink="false">c367ac1a17038d00a8cb5bbd0fafbdb6</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Thales Australia & New Zealand]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Outcome Customer Engineer, Google Cloud — Google]]></title>
+    <link>https://au.seek.com/job/91925150?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=b9c248f18352c3bc3a86c855d2db07b9fc37b48c</link>
+    <guid isPermaLink="false">a8812510ea8ec7cd9ca42ce761bb8141</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Google]]></author>
+    <location><![CDATA[Docklands]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Web Designer / Developer — AI & Automation — Industrial Precision Instrument Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91923947?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=ddee375cb265c055eb95bfb41de961b4752716d7</link>
+    <guid isPermaLink="false">7171fe463af1f462dd16c29e6365c2f0</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Industrial Precision Instrument Pty Ltd]]></author>
+    <location><![CDATA[Vermont]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Developer — BetterLabs]]></title>
+    <link>https://au.seek.com/job/91916246?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=b96c3ff46bf89ba242272a7be0e1eac1b774c4e4</link>
+    <guid isPermaLink="false">06a2a3f07af4fd6e3dd3c0caab40bd77</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[BetterLabs]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer — Cuscal Limited (SR)]]></title>
+    <link>https://au.seek.com/job/91915393?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=41241bd92b1a917567e715f35daddd9ab26187ed</link>
+    <guid isPermaLink="false">3661132ce204e8d372f5238a1deee4eb</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Cuscal Limited (SR)]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[NAB Platform Support Associate — Hays | Banking]]></title>
+    <link>https://au.seek.com/job/91900159?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=c2fc814ea7dace79523db546ab42a8482fc7b5a1</link>
+    <guid isPermaLink="false">5ea52182086fb73b7f09a60a38332d42</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Hays | Banking]]></author>
+    <location><![CDATA[Docklands]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[No-Code Systems Developer (Softr, APIs & Automation) — Private Advertiser]]></title>
+    <link>https://au.seek.com/job/91352618?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=791d038d101ba13b598b6e0e8a6394acbdb8b60a</link>
+    <guid isPermaLink="false">4c4d67330d28f7eaf9f73b130254feec</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Private Advertiser]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Full Stack Developer — Alzaro]]></title>
+    <link>https://au.seek.com/job/91898591?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=1319982b3ebf684c875b81351d9b5d2cfbd9960f</link>
+    <guid isPermaLink="false">d0849c235c7f69ac9fd7b949f0d48c92</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Alzaro]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer, Payments Identity, Early Career — Google]]></title>
+    <link>https://au.seek.com/job/91897254?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=0b31d081444aaf1182c95848f89addbb53cf5582</link>
+    <guid isPermaLink="false">f0a6ddf034b45791e3a3c6888adc2ff3</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Google]]></author>
+    <location><![CDATA[Sydenham]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Payment Officer — Talent – Specialists in tech, transformation & beyond]]></title>
+    <link>https://au.seek.com/job/91888975?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=06187652a9b679c5cb62be3c46d0b9fd47c2bea5</link>
+    <guid isPermaLink="false">d77e46cfa147cc12d3be064bbfdd3a17</guid>
+    <pubDate>Sat, 09 May 2026 01:56:58 GMT</pubDate>
+    <author><![CDATA[Talent – Specialists in tech, transformation & beyond]]></author>
+    <location><![CDATA[Geelong]]></location>
+    <category><![CDATA[payment gateway developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer — Ocius]]></title>
+    <link>https://au.seek.com/job/91984314?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=63df488d54290ff5079b14cbc4ff3b57e1895912</link>
+    <guid isPermaLink="false">2f73500ab6e83f5c493717f4702cef46</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Ocius]]></author>
+    <location><![CDATA[Alexandria]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer — Nine]]></title>
+    <link>https://au.seek.com/job/91977929?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=44471c472900e7c2489eda7f2d7776ded682f045</link>
+    <guid isPermaLink="false">b3c755875a5cd375d65780df853fdf76</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Nine]]></author>
+    <location><![CDATA[North Sydney]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Fractional Junior Full-Stack Developer — Peer TC Pty Ltd (t/a NAX Capital)]]></title>
+    <link>https://au.seek.com/job/91968438?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=a038d1a1731a1404a395adf649c21a89faf75bce</link>
+    <guid isPermaLink="false">19b1c4c1e79147a4cab3e367d66c66c2</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Peer TC Pty Ltd (t/a NAX Capital)]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Developer — nib health funds limited]]></title>
+    <link>https://au.seek.com/job/91970336?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=0afdd91e76d36dc640712877c97a87351873f2dc</link>
+    <guid isPermaLink="false">6dcebca01e526f87f2dd0bc9533edb25</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[nib health funds limited]]></author>
+    <location><![CDATA[Newcastle]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Application Developer (Sales & Digital Solutions) — KONE Elevators Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91881340?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=d39a7f847588b578e1276e118d0db1a2b18964fa</link>
+    <guid isPermaLink="false">a7c3c3a149bd697251b63181e5f9eba6</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[KONE Elevators Pty Ltd]]></author>
+    <location><![CDATA[Mascot]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[AI Engineer — Wall Street]]></title>
+    <link>https://au.seek.com/job/91854803?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=b297148e4909dabd8ded00dc3de49ba045c75dc8</link>
+    <guid isPermaLink="false">d853e7e5323ecd35569306dc53aa94bc</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Wall Street]]></author>
+    <location><![CDATA[Cremorne]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Android Developer — AIM Defence]]></title>
+    <link>https://au.seek.com/job/91806664?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=efb4e085d4681f0181bab0ff28b5c462511ce521</link>
+    <guid isPermaLink="false">2256ecb658ed94553faa5b565a14ab5e</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[AIM Defence]]></author>
+    <location><![CDATA[Port Melbourne]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Wintel Engineer — Canberra Consulting]]></title>
+    <link>https://au.seek.com/job/91806368?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=9e810f2de77d750a63525eff62711b124a779710</link>
+    <guid isPermaLink="false">d77efc58cc1e29c038a635d535ea53fb</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Canberra Consulting]]></author>
+    <location><![CDATA[Canberra ACT]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Developer — MYtech Consulting Services]]></title>
+    <link>https://au.seek.com/job/91803296?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=89fae3ab0e5008f2bf1290cf8362bcb24b9e7a49</link>
+    <guid isPermaLink="false">7ff95f84e314828aebda84f75393ac69</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[MYtech Consulting Services]]></author>
+    <location><![CDATA[Darwin NT]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Developer — Cathara Consulting Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91802149?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=f15ce77543054322024c40023fe30207300441cd</link>
+    <guid isPermaLink="false">c1a4c7a4b0104376566e642285f7b04f</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Cathara Consulting Pty Ltd]]></author>
+    <location><![CDATA[Darwin NT]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[4 Salesforce Software Engineer (Developer) — Elysium Digital]]></title>
+    <link>https://au.seek.com/job/91782067?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=88de36d93d4b0bcc4925d68df77f6c8b6b0031ba</link>
+    <guid isPermaLink="false">0ede65f6fb4df5775ab52cffffc2095b</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Elysium Digital]]></author>
+    <location><![CDATA[Canberra ACT]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer (Developer) — Elysium Digital]]></title>
+    <link>https://au.seek.com/job/91781531?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=5063f0541aa1c2953d813e864e33c8fcf141877a</link>
+    <guid isPermaLink="false">87fc833dca19ea166b0333d9af072ebe</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Elysium Digital]]></author>
+    <location><![CDATA[Canberra ACT]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer — AJQ]]></title>
+    <link>https://au.seek.com/job/91780021?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=b30167f8f974923ec0f3db65a9ecaa49628f3d10</link>
+    <guid isPermaLink="false">8fcb08e17b6120ba6e51264fc21abdcd</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[AJQ]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Android Developer — Swann Communications]]></title>
+    <link>https://au.seek.com/job/91609730?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7aaf5651fea553692a59a2eb7ec83eb3a4760303</link>
+    <guid isPermaLink="false">5046a4fffac0cfa10244de8ea806fded</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Swann Communications]]></author>
+    <location><![CDATA[Port Melbourne]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Developer — Obzervr]]></title>
+    <link>https://au.seek.com/job/91444175?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=02d8c79c2e1d1b6dde35962af301c9e28f445486</link>
+    <guid isPermaLink="false">c7354c217d7b513cf67a24682f074440</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Obzervr]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Service Now Developer — Randstad Digital]]></title>
+    <link>https://au.seek.com/job/91431542?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=eac31379e5718f1ee0267ae667a77c62c1f92fc0</link>
+    <guid isPermaLink="false">1ebcd87eb7fbc03f1388f2480c6d726d</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Randstad Digital]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Mulesoft Integration Developer — Professional Search Group]]></title>
+    <link>https://au.seek.com/job/91420059?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=cc853e53c4eed19a02e16dad423ea91d4f9f5807</link>
+    <guid isPermaLink="false">b6061e861f5031a3b09ca82d20a1a323</guid>
+    <pubDate>Sat, 09 May 2026 01:56:51 GMT</pubDate>
+    <author><![CDATA[Professional Search Group]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[n8n developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[E-Commerce & Marketing Executive — Carolina Lifestyle Label]]></title>
+    <link>https://au.seek.com/job/91989652?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=6ee8b0a8d4270a356187946e59264b3c6c4c6a79</link>
+    <guid isPermaLink="false">0c9a40f53971ede780e2469daa918758</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Carolina Lifestyle Label]]></author>
+    <location><![CDATA[Alexandria]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Cloud Engineer — Newcastle Greater Mutual Group]]></title>
+    <link>https://au.seek.com/job/91987191?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=2159d2c33ce36151dcbd44ca45a0fd8c65a442a7</link>
+    <guid isPermaLink="false">147e23bfdaa3302ba7217d7347bdee88</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Newcastle Greater Mutual Group]]></author>
+    <location><![CDATA[Gosford]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Cloud Engineer — Newcastle Greater Mutual Group]]></title>
+    <link>https://au.seek.com/job/91987163?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=6ec05b7fa2951634344886072f03df409451b13f</link>
+    <guid isPermaLink="false">7a84cf2966768b7b007edd46742d3047</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Newcastle Greater Mutual Group]]></author>
+    <location><![CDATA[Newcastle]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Product Developer - Womenswear — Your Recruitment Agency Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91985193?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=462497179f4e7030cc6e9e525ddf01b290a53d95</link>
+    <guid isPermaLink="false">587f08c877d9b6d09e76b617e21c3770</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Your Recruitment Agency Pty Ltd]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer — SEEK Limited]]></title>
+    <link>https://au.seek.com/job/91984706?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=a638041d61c3b8ca434433d1f35ea38a20b12f09</link>
+    <guid isPermaLink="false">bc237d93d6ab916e343898ef79a2f5af</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[SEEK Limited]]></author>
+    <location><![CDATA[Cremorne]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Website Developer — Ray White and Loan Market]]></title>
+    <link>https://au.seek.com/job/91984354?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=a9dbecc54f1d69ceb17b6df3012d8c1ca9b4c883</link>
+    <guid isPermaLink="false">5aadb24f30dac103ad5a0a1c5c5b9ad3</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Ray White and Loan Market]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[eCommerce Operations & Digital Coordinator — Blowes Menswear Group Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91984006?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=c9eb93a3712d8b9dd61793d805df9ae5b3eb50dd</link>
+    <guid isPermaLink="false">30fde2d07026c7dbaa4f6d0e78419bb7</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Blowes Menswear Group Pty Ltd]]></author>
+    <location><![CDATA[Orange]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[CRM & Marketing Automation Specialist — DiJones Real Estate]]></title>
+    <link>https://au.seek.com/job/91983919?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=e309540f41ebbb71c7e150a594088e0739a6da13</link>
+    <guid isPermaLink="false">1821f7e9013747de396d2805f43e8715</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[DiJones Real Estate]]></author>
+    <location><![CDATA[Pymble]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Application Developer — Healthia]]></title>
+    <link>https://au.seek.com/job/91983409?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7644e2d9163163a7403016bebf30ae1c0788e30d</link>
+    <guid isPermaLink="false">8ae1dffd8efeae7d12487640d7cbae07</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Healthia]]></author>
+    <location><![CDATA[Windsor]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer | Backend — Nine]]></title>
+    <link>https://au.seek.com/job/91977931?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=ef09809b50400d5122af194e2de0cf838a1772e6</link>
+    <guid isPermaLink="false">6b2df8c029f4b0b814e43dbaca75e47c</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Nine]]></author>
+    <location><![CDATA[North Sydney]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer — Nine]]></title>
+    <link>https://au.seek.com/job/91977929?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=e1a16198173c92725fdfcb3c8308f51b3d973026</link>
+    <guid isPermaLink="false">72b829cbe6712e5a31309b162dc8eaed</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Nine]]></author>
+    <location><![CDATA[North Sydney]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Domino Developer (HCL / Lotus Notes) — Calleo]]></title>
+    <link>https://au.seek.com/job/91971635?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=2c265c1b5f57e99b1a6f03f20afcc336533d2d97</link>
+    <guid isPermaLink="false">371c7aadc43dc52d519714f59ef0a4be</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Calleo]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior ECommerce Manager — Paspaley Pearling Co Pty Ltd - Retail]]></title>
+    <link>https://au.seek.com/job/91971623?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=f552cbdb2540e59d88e632b861616633b9da33a7</link>
+    <guid isPermaLink="false">3bcd945a0009b5e092fa2fc93934b973</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Paspaley Pearling Co Pty Ltd - Retail]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Web Developer / AI Programmer — Rintor Pty Ltd]]></title>
+    <link>https://au.seek.com/job/92008580?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7db187dc1dd62169e86ac3f2aebf1a28d523c1e2</link>
+    <guid isPermaLink="false">0092cd59265f61708e4771ef385f8e44</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Rintor Pty Ltd]]></author>
+    <location><![CDATA[Hope Island]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Developer — GoSource]]></title>
+    <link>https://au.seek.com/job/92004122?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=30a16733d3520cc27cb5e5b203095766904fad1d</link>
+    <guid isPermaLink="false">f188373cd91d2b3745ce5723ed64b4bf</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[GoSource]]></author>
+    <location><![CDATA[Canberra ACT]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Technical Specialist - UKG Pro WFM (Forecasting) — Australia Post]]></title>
+    <link>https://au.seek.com/job/92003451?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=9b45206590fd203aa25e1eee7ab86675aad55197</link>
+    <guid isPermaLink="false">44e73ca11e6c712837e2eae65b908791</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Australia Post]]></author>
+    <location><![CDATA[Richmond]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Javascript Developer — Zudello Pty Ltd]]></title>
+    <link>https://au.seek.com/job/92000246?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=539377a1e936c15eae690af82cd321cf33b6e7e3</link>
+    <guid isPermaLink="false">7c8a3283bfc06d80a690fdb6db3bfe57</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Zudello Pty Ltd]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior PHP Engineer — PERSOL]]></title>
+    <link>https://au.seek.com/job/91999516?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=3bbb4dbe0f9dbf9117a13171da181e20db60493a</link>
+    <guid isPermaLink="false">a5ef852d1aa529d658a0cdba699d8113</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[PERSOL]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Developer — Charles Darwin University]]></title>
+    <link>https://au.seek.com/job/91995543?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=600b21a751f2095aed18077f0524826b415c79e0</link>
+    <guid isPermaLink="false">196618aceba5d9b7be8c5532819d23f8</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Charles Darwin University]]></author>
+    <location><![CDATA[Darwin NT]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Ecommerce Manager — PACVAC]]></title>
+    <link>https://au.seek.com/job/91994773?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=b9553f7b72e579b9100f49f5856a3adc2a8a28fb</link>
+    <guid isPermaLink="false">a268bf854cdd5deef4ae5f64216c7ad2</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[PACVAC]]></author>
+    <location><![CDATA[Kewdale]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Digital Manager — Private Advertiser]]></title>
+    <link>https://au.seek.com/job/91994220?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=62f051943e0106f93a463a54d335e0fc3db3effb</link>
+    <guid isPermaLink="false">7b9af68ca7eea2b4f089bd7b7808a03f</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[Private Advertiser]]></author>
+    <location><![CDATA[Banyo]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Full Stack Developer (Frontend) — The University of Sydney]]></title>
+    <link>https://au.seek.com/job/91990300?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=2acd1225b97ff0f778c2f096daf59fec693e3c4f</link>
+    <guid isPermaLink="false">7b74b86662b29536c9b44a3c43d30cfb</guid>
+    <pubDate>Sat, 09 May 2026 01:56:38 GMT</pubDate>
+    <author><![CDATA[The University of Sydney]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[BigCommerce developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Developer — GoSource]]></title>
+    <link>https://au.seek.com/job/92004122?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=d970e5cef9feaaa0bd2503369d1a366722f52078</link>
+    <guid isPermaLink="false">586395dbba51756b8a85757e16ec59a1</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[GoSource]]></author>
+    <location><![CDATA[Canberra ACT]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[E-commerce and Sales Manager — Emporium Hotel]]></title>
+    <link>https://au.seek.com/job/91994873?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=52a5f3344c35c7562be43fc075661ade539dc6cb</link>
+    <guid isPermaLink="false">eea47cc68ca25efdc0037e0a7a2726b8</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Emporium Hotel]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Ecommerce Manager — PACVAC]]></title>
+    <link>https://au.seek.com/job/91994773?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=154c35891500bd5351473f50827bd704e8abbe85</link>
+    <guid isPermaLink="false">7bbdfa1d7c8f12198a3fe4a2823cfbd4</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[PACVAC]]></author>
+    <location><![CDATA[Kewdale]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Digital Manager — Private Advertiser]]></title>
+    <link>https://au.seek.com/job/91994220?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=55956e66b2484104f94b28b9b8d1cfcfa1d3a2cc</link>
+    <guid isPermaLink="false">414fa1a71fa7e802162419c19ff8a9e6</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Private Advertiser]]></author>
+    <location><![CDATA[Banyo]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Full Stack Developer (Frontend) — The University of Sydney]]></title>
+    <link>https://au.seek.com/job/91990300?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=ab82e61997aa95f5a693f4b5ce05888af1026b4e</link>
+    <guid isPermaLink="false">653138c374bcc69cf646b409687556fc</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[The University of Sydney]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Developer — MVSI OnBoard]]></title>
+    <link>https://au.seek.com/job/91988277?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=27fcf1bc31ae97dfdef0f16f3b83366d19c44d90</link>
+    <guid isPermaLink="false">a30e2e437f13c77c6bcaaf9ce2b3e784</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[MVSI OnBoard]]></author>
+    <location><![CDATA[North Sydney]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[eCommerce Operations & Digital Coordinator — Blowes Menswear Group Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91984006?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=a431d188dd78f1084c96f8d5de0e9dc0675a20bc</link>
+    <guid isPermaLink="false">831d058231448e576065ef8db4297b7c</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Blowes Menswear Group Pty Ltd]]></author>
+    <location><![CDATA[Orange]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer — Nine]]></title>
+    <link>https://au.seek.com/job/91977929?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=53ed337b905628a00cf030929d8c3f9d6cda2fa0</link>
+    <guid isPermaLink="false">b6374bc6dcafb4ba2b8aa8a2bd4d41f5</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Nine]]></author>
+    <location><![CDATA[North Sydney]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Ecommerce & Growth Manager — Miller Leith]]></title>
+    <link>https://au.seek.com/job/91971558?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=811213c58d95fce320d261826cc856261d6177ab</link>
+    <guid isPermaLink="false">7c0485fbea8d98947fcc1af31aafffbe</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Miller Leith]]></author>
+    <location><![CDATA[Canberra ACT]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[WebApp / Angular Developer — Atturra]]></title>
+    <link>https://au.seek.com/job/91968420?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=e6860c5f487424bd72da0cbb2e7248c7d91e8fff</link>
+    <guid isPermaLink="false">d751bb59ac88c2afd2c8c147c044c442</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Atturra]]></author>
+    <location><![CDATA[Canberra ACT]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[eCommerce Coordinator — Four Fashion Australia]]></title>
+    <link>https://au.seek.com/job/91956281?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=2f93afe5f47afe3d9db9fc7e604f78a4d8da9469</link>
+    <guid isPermaLink="false">e1a9f8a4b8b116e2f7ef192d9fb37b86</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Four Fashion Australia]]></author>
+    <location><![CDATA[Collingwood]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Engineer — Virgin Australia]]></title>
+    <link>https://au.seek.com/job/91953269?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7d394b6bab760d6f11158681ad5f11acb11a41b0</link>
+    <guid isPermaLink="false">07ca0a5fcccee7e8074cf2b19261ed5c</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Virgin Australia]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Ecommerce Executive — Seafolly]]></title>
+    <link>https://au.seek.com/job/91947115?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=04e0347d6fab4b024a8539b07836c476b88da4c4</link>
+    <guid isPermaLink="false">ac4bb6e688bac80132245b1b01f511d2</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Seafolly]]></author>
+    <location><![CDATA[Bondi]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[E Commerce Co-ordinator/Social Media Manager — JustJap]]></title>
+    <link>https://au.seek.com/job/91941256?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=17c1209cacf2bb385fc56d670e2a426c9ffaee2b</link>
+    <guid isPermaLink="false">bf6e7058326adc551addaf1a449af49f</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[JustJap]]></author>
+    <location><![CDATA[Kirrawee]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[E-Commerce & Digital Coordinator — Lucy's Luxury Consignment]]></title>
+    <link>https://au.seek.com/job/91939737?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=3770b532f1cb323065b239e19f0306f6bf56a28d</link>
+    <guid isPermaLink="false">97c785671c36b89060822b2614a67a74</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Lucy's Luxury Consignment]]></author>
+    <location><![CDATA[Byron Bay]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Junior Frontend Developer — STERIBRIGHT PTY LTD T/A Brightspace]]></title>
+    <link>https://au.seek.com/job/91936746?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=531747fbc0a12e49177c5c2f343f6abbd024b3c4</link>
+    <guid isPermaLink="false">589d1c7aa8e10a735716a646c14c5629</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[STERIBRIGHT PTY LTD T/A Brightspace]]></author>
+    <location><![CDATA[Richmond]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior SEO Specialist - Melbourne — StudioHawk]]></title>
+    <link>https://au.seek.com/job/91930899?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=6ab7290c9484f90c1e4bfecda80947202c2917d5</link>
+    <guid isPermaLink="false">d93c09217062a349846ce2715403f724</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[StudioHawk]]></author>
+    <location><![CDATA[Prahran]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Enterprise SEO Manager - Melbourne — StudioHawk]]></title>
+    <link>https://au.seek.com/job/91930661?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=98d4b6b0c42929c2d130fd7ee2216c2c65f5e149</link>
+    <guid isPermaLink="false">39b4bd19cfe6e993990e6d74e4fe7d8e</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[StudioHawk]]></author>
+    <location><![CDATA[Prahran]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Web Designer / Developer — AI & Automation — Industrial Precision Instrument Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91923947?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=9bd4585a78a738d8586184ab90d2ddcf4acf4304</link>
+    <guid isPermaLink="false">9121ceab8666b45396f82b960575ab33</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Industrial Precision Instrument Pty Ltd]]></author>
+    <location><![CDATA[Vermont]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Software Developer — BetterLabs]]></title>
+    <link>https://au.seek.com/job/91916246?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=bd6dc7e01546e5f3889c23e08dde5e47010f86ed</link>
+    <guid isPermaLink="false">f2a96704372d22a52184026ef633f1fc</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[BetterLabs]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Digital Marketing Specialist — MGI GOLF PTY LTD]]></title>
+    <link>https://au.seek.com/job/91912112?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=6dd83ec5eeda8fb93e9d6f90d8b1dbc9b7946790</link>
+    <guid isPermaLink="false">87da0e17763fdbd29398944f7b4b3c89</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[MGI GOLF PTY LTD]]></author>
+    <location><![CDATA[Nunawading]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Amazon E-Commerce Specialist - Fully Remote — Outstanding Products Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91910396?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=1c2a90772b696006a9557ecfedd2237313498a8e</link>
+    <guid isPermaLink="false">275467b9904ffc5c624d3266d29c42b5</guid>
+    <pubDate>Sat, 09 May 2026 01:56:33 GMT</pubDate>
+    <author><![CDATA[Outstanding Products Pty Ltd]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[Shopify developer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Finance Transformation Manager — Accenture]]></title>
+    <link>https://au.seek.com/job/92007675?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=d4d73c524085aeb7ad01d603cd2862d7b9dc6477</link>
+    <guid isPermaLink="false">cba9fdd9f53050d53b5c8bf1b64d457e</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Accenture]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[EPMO Manager — Cirql]]></title>
+    <link>https://au.seek.com/job/92005735?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7b729e9e2e5130f7c96fc2075236684a02a8b212</link>
+    <guid isPermaLink="false">8a7343e610fe1857ff11f0cd60618b7d</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Cirql]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Product Owner — ELMO Software Limited]]></title>
+    <link>https://au.seek.com/job/92002386?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=61acc1bbfb6d02ab4550df860e4a66a570f2d3eb</link>
+    <guid isPermaLink="false">8e53c458bdf28bfbbfafe3419b28009f</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[ELMO Software Limited]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Azure Cloud Engineer & Cloud Integration Engineer - Melbourne — AYAN INFOTECH PTY LTD]]></title>
+    <link>https://au.seek.com/job/92001713?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=6bb71209b7e74bf3198904ba4c521fa8a987fc69</link>
+    <guid isPermaLink="false">6a09ddc016e7f3bd9bf05ced7bb1465f</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[AYAN INFOTECH PTY LTD]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Application Support Lead — Horizon Power]]></title>
+    <link>https://au.seek.com/job/92000703?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=08a32cdef293f28e89c7887ad2375a62e32df9bf</link>
+    <guid isPermaLink="false">3bc2c7c6d42c3227f9f9aedb96297025</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Horizon Power]]></author>
+    <location><![CDATA[Bentley]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Javascript Developer — Zudello Pty Ltd]]></title>
+    <link>https://au.seek.com/job/92000246?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=66bdbdbb32c1e6697d022fbd49b3e2a840cd83b1</link>
+    <guid isPermaLink="false">99687917f283a380f93548f4972e6d12</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Zudello Pty Ltd]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Business Systems Specialist — Brightwater]]></title>
+    <link>https://au.seek.com/job/92000124?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=227d74e233a6390d605aa758f2237deecf94393a</link>
+    <guid isPermaLink="false">4ee4e9d9ed3489308e688ced50767c6e</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Brightwater]]></author>
+    <location><![CDATA[Inglewood]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Configuration Manager — KBR - Kellogg Brown & Root Pty Ltd]]></title>
+    <link>https://au.seek.com/job/92000055?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=0e6b822b36257066a77addab4daadc029d89e59a</link>
+    <guid isPermaLink="false">25013344b1675f043219cca50e1fbd70</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[KBR - Kellogg Brown & Root Pty Ltd]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Business Solutions Consultant — Aurion Corporation Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91999512?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7c0ef8ea444f5a65886561962f4ebfe93693c021</link>
+    <guid isPermaLink="false">da27183b910b59d1ce3925cf8466fbf8</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Aurion Corporation Pty Ltd]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Business Intelligence Specialist — Alinta Energy]]></title>
+    <link>https://au.seek.com/job/91999483?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=8aa63ef80411f4746e5706bcb4c051815267fe40</link>
+    <guid isPermaLink="false">165defce62f22f3eff9b0c3809e42be1</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Alinta Energy]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Principal – Developer Experience (AI Powered Engineering) — Commonwealth Bank]]></title>
+    <link>https://au.seek.com/job/91999266?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=250d3cb799f925f15276f6ae326f0a09aeba3152</link>
+    <guid isPermaLink="false">93ad5596e749b757c575d9ec00913dfd</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Commonwealth Bank]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Technical Account Manager — Reo Group]]></title>
+    <link>https://au.seek.com/job/91999132?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=4ca02ad036b460fe33215550d565d8224de9ee17</link>
+    <guid isPermaLink="false">fe36358359fa0cee4068a81e4adfa3f2</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Reo Group]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Workday HCM Functional Consultant — Group Elephant Australia Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91999099?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=14a9588e4270326f194cb53843b0d5892f69e64e</link>
+    <guid isPermaLink="false">9e301cb5cf8beae8323f233c117994d2</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Group Elephant Australia Pty Ltd]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Finance Systems Data Consultant - JDE & Azure — Marshall Recruitment]]></title>
+    <link>https://au.seek.com/job/91998818?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=a8009c6fa56b64ce8d0c6a1aca06913c46023813</link>
+    <guid isPermaLink="false">830fcefdc770bf8e78651d2641fd51ee</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Marshall Recruitment]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[EL1 Senior CRM Developer — Softlabs]]></title>
+    <link>https://au.seek.com/job/91998651?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=55232868298f0b4549e9cc7f1a7c81bdd5f2741b</link>
+    <guid isPermaLink="false">0942ae52580c9b048559db652644316a</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Softlabs]]></author>
+    <location><![CDATA[Canberra ACT]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Solutions Architect — xceltium]]></title>
+    <link>https://au.seek.com/job/91998412?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=594558b55747d15c6fdd8878b563c3a9c76b79b5</link>
+    <guid isPermaLink="false">428efe78d893892c36b98b169354d823</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[xceltium]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Business Analyst – SAP Systems Support — Glencore]]></title>
+    <link>https://au.seek.com/job/91997965?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=c6f652a2bbe00b7bbe0d0a6ee680db0238369c72</link>
+    <guid isPermaLink="false">707077043bc8a945bc8aec5175530004</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Glencore]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Internal Audit Manager - Technology & Projects — Heritage and People's Choice]]></title>
+    <link>https://au.seek.com/job/91997823?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=b8e5c1b84081805818ca57bb0e4e8eca97a923f2</link>
+    <guid isPermaLink="false">1829b11d353fbbe193df0bc8d9213108</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Heritage and People's Choice]]></author>
+    <location><![CDATA[Adelaide SA]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Internal Audit Manager - Technology & Projects — Heritage and People's Choice]]></title>
+    <link>https://au.seek.com/job/91997744?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=6bf12ef2f73e37ec0f00947aa360539fc1d0ab3e</link>
+    <guid isPermaLink="false">98c0bcf523b47bda5e07693e21de1af9</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Heritage and People's Choice]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Principal – Operational Technology Delivery — Layer 2 Intelligence Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91997664?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=d2d3f1a9ec12c083be6392deb54ad714fca81aaa</link>
+    <guid isPermaLink="false">3ea89d73601fff727662875ce0f60c43</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[Layer 2 Intelligence Pty Ltd]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Integration Analyst Developer — St Vincent's Health Australia]]></title>
+    <link>https://au.seek.com/job/91997581?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7b179d2c6f3c334d7a28b15009d6f06cccf85d32</link>
+    <guid isPermaLink="false">58861899cd5bff21c0f2eb9bd3369552</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[St Vincent's Health Australia]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Integration Analyst Developer — St Vincent's Health Australia]]></title>
+    <link>https://au.seek.com/job/91997534?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=ab7f3e5361007e0e3416b0b6240f6e707b274f1f</link>
+    <guid isPermaLink="false">6c724e07ee565cb998a3ee287df9bbb8</guid>
+    <pubDate>Sat, 09 May 2026 01:56:26 GMT</pubDate>
+    <author><![CDATA[St Vincent's Health Australia]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[ERP integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Finance Transformation Manager — Accenture]]></title>
+    <link>https://au.seek.com/job/92007678?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=c18daf801fc14e21dcc9ebbf209aa58ead358c50</link>
+    <guid isPermaLink="false">da28dddea503f3eb068ee4d164a3497e</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Accenture]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Finance Transformation Manager — Accenture]]></title>
+    <link>https://au.seek.com/job/92007675?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=a120ab696066afb1747fdb23a4974e87dcbd006e</link>
+    <guid isPermaLink="false">9742984fd3584c7ce5d10c9243c61aad</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Accenture]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Customer Development Exec - Pharmacy — Colgate Palmolive]]></title>
+    <link>https://au.seek.com/job/92006895?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=242bd233d182864ba055ab1736421826b4251d7b</link>
+    <guid isPermaLink="false">2bd6c77fc86aedf665beead007f2a77a</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Colgate Palmolive]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Domain Delivery Lead - 24 Months Fixed Term Role — Sydney Water]]></title>
+    <link>https://au.seek.com/job/92008001?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=dc839f64287d61a1434f3983157bc7652647d174</link>
+    <guid isPermaLink="false">fb6a6192769b6f063e7fc13293960a9a</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Sydney Water]]></author>
+    <location><![CDATA[Parramatta]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Chief Digital and Transformation Officer — Victoria Legal Aid]]></title>
+    <link>https://au.seek.com/job/92004527?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7f8ac7ec6721f6ed46656e6a3a156710b84fa7f5</link>
+    <guid isPermaLink="false">da4b2ef12b28f15a90437707960ac598</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Victoria Legal Aid]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Customer Service & Product Coordinator — Vorsen Pty Ltd]]></title>
+    <link>https://au.seek.com/job/92003262?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=fd05c1e29be185d8edb2c0f61834d7009206348d</link>
+    <guid isPermaLink="false">51f877e57bc3520a38dc60450d2af065</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Vorsen Pty Ltd]]></author>
+    <location><![CDATA[Glendenning]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Account Manager Solutions Specialist — Peoplebank Australia WA]]></title>
+    <link>https://au.seek.com/job/92002414?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=60b2622ca662bc8639886e7d5b2973c2e3928cd2</link>
+    <guid isPermaLink="false">d3e4d752915993e81d81f2abe58e0a03</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Peoplebank Australia WA]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[App Optimisation Manager — AMP Services]]></title>
+    <link>https://au.seek.com/job/91999194?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=dbd7bf0a7075a31e95fb572984e292419cb2d30b</link>
+    <guid isPermaLink="false">d36976517cbf3f4013f2aad0675c6c0d</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[AMP Services]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Technical Account Manager — Reo Group]]></title>
+    <link>https://au.seek.com/job/91999132?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=e72b36611a16dab2cb2da370cb9b562e9c71629a</link>
+    <guid isPermaLink="false">b4b235294fb807fc1dd9da28eac7d900</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Reo Group]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Enterprise Growth Marketing Executive — Zembl]]></title>
+    <link>https://au.seek.com/job/91997140?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=76363e9fea664d018b4646c2fd5c77f45a806378</link>
+    <guid isPermaLink="false">a2da91681db59299cc910ad236f49e45</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Zembl]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Analyst Developer — St Vincent's Health Australia]]></title>
+    <link>https://au.seek.com/job/91997123?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=14a17a54a06dc4a320cde1f09eb7cb86b810bb31</link>
+    <guid isPermaLink="false">5027b38f7be1a9304ff9bf29f022c5f3</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[St Vincent's Health Australia]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Analyst Developer — St Vincent's Health Australia]]></title>
+    <link>https://au.seek.com/job/91997083?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=35a86706608c899a4892e9e03efe50128c6f4123</link>
+    <guid isPermaLink="false">cf338670cad02580c0e7ed588277239e</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[St Vincent's Health Australia]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Analyst Developer — St Vincent's Health Australia]]></title>
+    <link>https://au.seek.com/job/91996993?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=24b870dc50a80664b16872531c4d168c4d39edfa</link>
+    <guid isPermaLink="false">c77944cb37811041aaead4b5ef0d1b90</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[St Vincent's Health Australia]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Business Systems Administrator (Dynamics CRM) — PRA]]></title>
+    <link>https://au.seek.com/job/91996662?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=363aa13332d592ab91df2a1ce17b813313ab7dc2</link>
+    <guid isPermaLink="false">022016d23763fff479509e531b2df723</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[PRA]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Tender and Commercial Analyst — ICU Medical Australia Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91996584?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=8b185bcf38487591e4d63c2c89980f226424bf63</link>
+    <guid isPermaLink="false">63bb78d32272932a9d24e1fd7bb53350</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[ICU Medical Australia Pty Ltd]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[CRM Manager (HubSpot) — THE BMD GROUP]]></title>
+    <link>https://au.seek.com/job/91996160?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=5954baf5cdefee7909f8ec5dd18bfe8f7e078162</link>
+    <guid isPermaLink="false">b74e5c05702a0d3c24f0dc51bc6be8c5</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[THE BMD GROUP]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Architect — Talent – Specialists in tech, transformation & beyond]]></title>
+    <link>https://au.seek.com/job/91995780?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=cbb10a7c7060875ab00e94e1e0481a4316b5f7ab</link>
+    <guid isPermaLink="false">1d81730f9318dff116070e90569881c3</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Talent – Specialists in tech, transformation & beyond]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Data and Integration Engineer — Campbelltown City Council]]></title>
+    <link>https://au.seek.com/job/91995633?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7facee868e7fe830913929bf0a810e1fca886e93</link>
+    <guid isPermaLink="false">d48f45a5ac5e70d5e8ec27da0e3735c0</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Campbelltown City Council]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Developer — Charles Darwin University]]></title>
+    <link>https://au.seek.com/job/91995543?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7b33e25e9bce7699e8f8055b4a3bcf95f684391e</link>
+    <guid isPermaLink="false">152d34a1e3e1cc7e89416a524a2f8a58</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Charles Darwin University]]></author>
+    <location><![CDATA[Darwin NT]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[System Integration Specialist — Breight Group]]></title>
+    <link>https://au.seek.com/job/91994939?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=8240dc5c5d3a20cea91c6eaf61eb9e9d1f12bde3</link>
+    <guid isPermaLink="false">137251637800ea794cb8277b1df7bd64</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Breight Group]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[E-commerce and Sales Manager — Emporium Hotel]]></title>
+    <link>https://au.seek.com/job/91994873?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=f09650bd25e5a493000686f53de0fc4f7c910e19</link>
+    <guid isPermaLink="false">06969522c14367fb11226ef2b1f6664c</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[Emporium Hotel]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Ecommerce Manager — PACVAC]]></title>
+    <link>https://au.seek.com/job/91994773?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=42b7e2b04a4e202c6ec95aa3e01f88a1ecb7cc39</link>
+    <guid isPermaLink="false">3667525bb8fc7f39d4befbb110b4f7d8</guid>
+    <pubDate>Sat, 09 May 2026 01:56:20 GMT</pubDate>
+    <author><![CDATA[PACVAC]]></author>
+    <location><![CDATA[Kewdale]]></location>
+    <category><![CDATA[commerce integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Hardware Engineer, Sydney — Arista Networks]]></title>
+    <link>https://au.seek.com/job/92008154?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=5289733bf8dca4b3460f99a0ee05ba3744c180e8</link>
+    <guid isPermaLink="false">49eedb8caf678b4e61a439a1e69ba508</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Arista Networks]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Cloud Infrastructure Engineer — ubank]]></title>
+    <link>https://au.seek.com/job/92007983?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=801be5cdb0f271ef15feb55f471895cb8e5c9f3e</link>
+    <guid isPermaLink="false">0ff3476370ed2779dfadb15eaa8183dc</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[ubank]]></author>
+    <location><![CDATA[Bondi]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[DevOps / Platform Engineer — Peoplebank Australia NSW]]></title>
+    <link>https://au.seek.com/job/92004466?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=c366539e58f111f0b21310ce632d17187902d564</link>
+    <guid isPermaLink="false">e20ff636599b40f716c9370e4fb98da5</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Peoplebank Australia NSW]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Cloud Engineer — GoSource]]></title>
+    <link>https://au.seek.com/job/92004082?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=c19a01d930ce460045a0e36c38255c758a987233</link>
+    <guid isPermaLink="false">ddf9cb428287392fefe2b0cc643331aa</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[GoSource]]></author>
+    <location><![CDATA[Canberra ACT]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Enterprise Network Engineer — Peoplebank Australia WA]]></title>
+    <link>https://au.seek.com/job/92003158?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=11d2e5994f77ee95eba26b13aa052c944d7f39dc</link>
+    <guid isPermaLink="false">736a4c416344213675de7d284b35b9bd</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Peoplebank Australia WA]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Planning Engineer - Power Systems — NES Fircroft]]></title>
+    <link>https://au.seek.com/job/92002930?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=ab2827abd553eef7b99097893d329fc027a6384f</link>
+    <guid isPermaLink="false">25e84c797787a8a4b16ee55e07b0a6ab</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[NES Fircroft]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Azure Cloud Engineer & Cloud Integration Engineer - Melbourne — AYAN INFOTECH PTY LTD]]></title>
+    <link>https://au.seek.com/job/92001713?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=8b101d6a303a9f03f5899617bbf510490bb3b643</link>
+    <guid isPermaLink="false">4bc65d4c9fee78ffa92052f9ec289563</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[AYAN INFOTECH PTY LTD]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Systems Engineer — ATS Solutions]]></title>
+    <link>https://au.seek.com/job/91999153?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=9e5cde664084439c0286ac92427a7ec295fe187f</link>
+    <guid isPermaLink="false">a560ce0f39996984a06379bfe3a47580</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[ATS Solutions]]></author>
+    <location><![CDATA[Mount Lawley]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Network Architect — Peoplebank Australia NSW]]></title>
+    <link>https://au.seek.com/job/91998671?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=a94e1621fda6c4adb9cf3bcdbb18b43d901d5737</link>
+    <guid isPermaLink="false">0db9bb3c8e753bcea7245238abee1fda</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Peoplebank Australia NSW]]></author>
+    <location><![CDATA[Parramatta]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Power Platform Engineer - D365 Azure — McMillan Shakespeare]]></title>
+    <link>https://au.seek.com/job/91986061?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=afbb52f6d429e6f5f8c92ebb811849c21d824343</link>
+    <guid isPermaLink="false">50f5b774413e8c11b094f60cb89b04bd</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[McMillan Shakespeare]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Network Engineer — Layer 2 Intelligence Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91996364?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=75198ed98c534b530361141ef3563ad9ec692d31</link>
+    <guid isPermaLink="false">763e35a938164eaab4e0b5739436d483</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Layer 2 Intelligence Pty Ltd]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Systems Engineer — Matrix Solutions]]></title>
+    <link>https://au.seek.com/job/91997741?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=b5337965357c93f180010cd0d0121ba3309aa651</link>
+    <guid isPermaLink="false">af251932721b90add6e6e0a8368eca33</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Matrix Solutions]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Principal – Operational Technology Delivery — Layer 2 Intelligence Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91997664?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=663726f299e5d380e86160253fff15e747eb89e8</link>
+    <guid isPermaLink="false">fc8d3f579d607c29ce3e706682246f2c</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Layer 2 Intelligence Pty Ltd]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Systems Architect — VMIA]]></title>
+    <link>https://au.seek.com/job/91998073?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=e25fc3873cb23930672257f55fdf088875fd65c5</link>
+    <guid isPermaLink="false">bc197f6e18d83c3b3612b7fedc61f006</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[VMIA]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Platform and Application Support Engineer — VMIA]]></title>
+    <link>https://au.seek.com/job/91997583?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=d546092074d5aed8726d47a87def37d0ef21ad09</link>
+    <guid isPermaLink="false">5551e1fde0c30dd805f427febaf2f1e7</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[VMIA]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Principal Cloud Platform Lead — PRA]]></title>
+    <link>https://au.seek.com/job/91996959?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=9d4786ab9ae88e999740d8760fba982801341345</link>
+    <guid isPermaLink="false">f9c12e31b3c6f2a8acd7cea537f6aa28</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[PRA]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Modern Workplace Engineer — Robert Half]]></title>
+    <link>https://au.seek.com/job/91996377?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=aceea8ee482745ddb7290fb9411370f8299f6d87</link>
+    <guid isPermaLink="false">f20d16e8e5e062a0b392ad42b9d825a5</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Robert Half]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Azure DevOps Engineer (BICEP) — Peoplebank Australia NSW]]></title>
+    <link>https://au.seek.com/job/91996320?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=98c45bae17f4fd318b40dd054a13eeea73dacf2a</link>
+    <guid isPermaLink="false">29669a2021df036062dfa0cffdb003bc</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Peoplebank Australia NSW]]></author>
+    <location><![CDATA[Ryde]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[DevOps Engineer — Ignite]]></title>
+    <link>https://au.seek.com/job/91995362?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=19f87017c9e0a055d96362f5aedea4aef163209b</link>
+    <guid isPermaLink="false">d861d1438105f4b60edd4577fb383af2</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Ignite]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[AI & Automation Engineer — Boyce Chartered Accountants]]></title>
+    <link>https://au.seek.com/job/91994952?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=329369e26249b3efa13c00daaefcfb5ac929750e</link>
+    <guid isPermaLink="false">b65bd8f342521f25358958935398324a</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Boyce Chartered Accountants]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[System Integration Specialist — Breight Group]]></title>
+    <link>https://au.seek.com/job/91994939?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=add01dd07245adece47d478e695434adfad18281</link>
+    <guid isPermaLink="false">0d1fb51bce24021439c1fd8da737ba22</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[Breight Group]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Control Systems Engineers - All levels — MIPAC Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91994704?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=f8e8e09ea3cb0b1016429eee94f1f43b1a4680c3</link>
+    <guid isPermaLink="false">02fe61421ba31558dff35f636854e732</guid>
+    <pubDate>Sat, 09 May 2026 01:56:13 GMT</pubDate>
+    <author><![CDATA[MIPAC Pty Ltd]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[PI System engineer]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Solution Lead- OT/ Industrial — Peoplebank Australia WA]]></title>
+    <link>https://au.seek.com/job/92002957?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=967645ed80207176ce9c63aff93256d3a19ca367</link>
+    <guid isPermaLink="false">f83ca883d2e0f0adde24cf8fb86109e0</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[Peoplebank Australia WA]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Principal – Operational Technology Delivery — Layer 2 Intelligence Pty Ltd]]></title>
+    <link>https://au.seek.com/job/91997664?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=bf4c5c521b93636422bdd683b10e9cc8dbb736ce</link>
+    <guid isPermaLink="false">86b7ccd431ac1feab81ec1def39314a8</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[Layer 2 Intelligence Pty Ltd]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Service Electrician (Perth, WA) — TVH]]></title>
+    <link>https://au.seek.com/job/91995545?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=0d078e1fe452e928ccebb0f446e81eae275c719d</link>
+    <guid isPermaLink="false">d396091078c59cb43396c2744a0ed9e9</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[TVH]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Integration Developer — Charles Darwin University]]></title>
+    <link>https://au.seek.com/job/91995543?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=74c815d4097eaf02b2daa01dae80b6a7eed691b8</link>
+    <guid isPermaLink="false">b2436267cbfe249a4736d26a3cecd593</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[Charles Darwin University]]></author>
+    <location><![CDATA[Darwin NT]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Service Electrician (Adelaide, SA) — TVH]]></title>
+    <link>https://au.seek.com/job/91995496?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=c60c92c6db230c54975d376ec31bf73fa299c173</link>
+    <guid isPermaLink="false">8192af6bd5858ca6006c7c46859e2ae1</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[TVH]]></author>
+    <location><![CDATA[Adelaide SA]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Service Electrician (Katherine, NT) — TVH]]></title>
+    <link>https://au.seek.com/job/91995404?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=abb3fd0a31d2ebc3508d1fcc84925fdfe68325cf</link>
+    <guid isPermaLink="false">4483261cc9b8e29b8badf837af5723bf</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[TVH]]></author>
+    <location><![CDATA[Katherine]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Associate Director, Workforce Planning Retail — Optus]]></title>
+    <link>https://au.seek.com/job/91991444?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=3c048923106e96e8255329ef9ef841f34badcb42</link>
+    <guid isPermaLink="false">35bb3ea32561e8ad1cdad2b4b1c1fbd4</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[Optus]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Operational Technology Specialist — Mars Recruitment]]></title>
+    <link>https://au.seek.com/job/91974703?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=ce4825f407e3b9843f05c1d1114a39e4bab2a66d</link>
+    <guid isPermaLink="false">826c882da21126575086f859a36f9e8e</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[Mars Recruitment]]></author>
+    <location><![CDATA[Sydney NSW]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Operational Technology Specialist — Mars Recruitment]]></title>
+    <link>https://au.seek.com/job/91974093?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7e2917c46640baef79c4f4ffa974d268c21a3ce6</link>
+    <guid isPermaLink="false">ccda39d5d99b814ae9d1eec567d30c1d</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[Mars Recruitment]]></author>
+    <location><![CDATA[Brisbane QLD]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Operational Technology Specialist — Mars Recruitment]]></title>
+    <link>https://au.seek.com/job/91974059?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=3f2789ce4d6bb6a2e06d8021f84525fc5931c1a5</link>
+    <guid isPermaLink="false">4ceeffc439f2affcf55784ee6749c9d3</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[Mars Recruitment]]></author>
+    <location><![CDATA[Melbourne VIC]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Mine Technology Engineer — PLS]]></title>
+    <link>https://au.seek.com/job/91971107?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=954a5e8251d05cc9ad8cf1940a029e1cf15c2029</link>
+    <guid isPermaLink="false">2d10b265eb9fd8ed8e754a46457b18dd</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[PLS]]></author>
+    <location><![CDATA[Port Hedland]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Projects/ Stakeholder Manager — Yokogawa Australia & New Zealand]]></title>
+    <link>https://au.seek.com/job/91970321?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=7674677a61a0b7a3f1033ac940494103ab9d50a8</link>
+    <guid isPermaLink="false">42238714d80ac6a6b488bbee88cdd71f</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[Yokogawa Australia & New Zealand]]></author>
+    <location><![CDATA[Mulgrave]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Senior Cyber and Operational Technology Security Engineer — St John of God Health Care Inc]]></title>
+    <link>https://au.seek.com/job/91969205?type=standard&amp;ref=search-standalone&amp;origin=cardTitle#sol=f83374833823dc8bb7abf368ad1491cfa6e99a3c</link>
+    <guid isPermaLink="false">ba5b46969f31245ad6c2b0a66d1a799a</guid>
+    <pubDate>Sat, 09 May 2026 01:56:06 GMT</pubDate>
+    <author><![CDATA[St John of God Health Care Inc]]></author>
+    <location><![CDATA[Perth WA]]></location>
+    <category><![CDATA[OT integration]]></category>
+    <source><![CDATA[Seek]]></source>
+    <description><![CDATA[]]></description>
+  </item>
+  </channel>
+</rss>

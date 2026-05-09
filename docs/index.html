@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Integration Jobs — Australia</title>
+  <link rel="alternate" type="application/rss+xml" title="Integration Jobs Australia" href="feed.xml" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0d1117; color: #e6edf3;
+      display: flex; align-items: center; justify-content: center;
+      min-height: 100vh; padding: 2rem;
+    }
+    .card {
+      background: #161b22; border: 1px solid #30363d;
+      border-radius: 12px; padding: 2.5rem; max-width: 520px; width: 100%;
+      text-align: center;
+    }
+    h1 { font-size: 1.6rem; margin-bottom: .5rem; }
+    p { color: #8b949e; line-height: 1.6; margin-bottom: 1.5rem; }
+    .badge {
+      display: inline-block; background: #21262d; border: 1px solid #30363d;
+      border-radius: 6px; padding: .4rem 1rem; font-size: .85rem;
+      color: #58a6ff; font-family: monospace; margin-bottom: 1.5rem;
+      word-break: break-all;
+    }
+    .btn {
+      display: inline-block; background: #238636; color: #fff;
+      text-decoration: none; padding: .65rem 1.5rem; border-radius: 6px;
+      font-weight: 600; margin: .4rem;
+    }
+    .btn.secondary {
+      background: #21262d; border: 1px solid #30363d; color: #e6edf3;
+    }
+    .tags { margin-top: 1.5rem; display: flex; flex-wrap: wrap; gap: .4rem; justify-content: center; }
+    .tag {
+      background: #1f2937; border: 1px solid #374151; border-radius: 20px;
+      font-size: .75rem; padding: .2rem .7rem; color: #9ca3af;
+    }
+    footer { margin-top: 1.5rem; font-size: .75rem; color: #484f58; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>🔌 Integration Jobs</h1>
+    <p>Australian-wide RSS feed for integration, API, middleware &amp; industry-specific tech roles. Updated every 6 hours.</p>
+
+    <div class="badge" id="feedUrl">Loading feed URL…</div>
+    <br/>
+    <a class="btn" href="feed.xml">📡 Subscribe (RSS)</a>
+    <a class="btn secondary" href="https://feedly.com/i/subscription/feed/" id="feedlyBtn">Add to Feedly</a>
+
+    <div class="tags">
+      <span class="tag">MuleSoft</span><span class="tag">Boomi</span>
+      <span class="tag">HL7 / FHIR</span><span class="tag">SCADA</span>
+      <span class="tag">ETL</span><span class="tag">iPaaS</span>
+      <span class="tag">ERP Integration</span><span class="tag">BigCommerce</span>
+      <span class="tag">Shopify</span><span class="tag">Workato</span>
+      <span class="tag">n8n</span><span class="tag">API Developer</span>
+    </div>
+
+    <footer>
+      Sources: Seek · Indeed · LinkedIn · Jora · CareerOne<br/>
+      Powered by GitHub Actions + GitHub Pages · 100% free
+    </footer>
+  </div>
+  <script>
+    const feedUrl = window.location.origin + window.location.pathname.replace(/\/?$/, '/') + "feed.xml";
+    document.getElementById("feedUrl").textContent = feedUrl;
+    document.getElementById("feedlyBtn").href = "https://feedly.com/i/subscription/feed/" + encodeURIComponent(feedUrl);
+  </script>
+</body>
+</html>
